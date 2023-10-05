@@ -35,7 +35,7 @@ About 50% of the jobs vacancies is for Mid-Level career position with salary sca
 ![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob5.png)
 Using their Median Salary, the Data Engineer and Cloud Computing jobs advertised has the highest earning of about £60,000 each while Power Platform, Product Manager, and CyberSecurity earn about £50,000. But the least median salary is £35,000 recorded in Data Analyst career.
 
-![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob6.png)
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob9.png)
 Data Enngineer, Software Tester, Software Engineer, Power Platform and Data Engineer are the top 5 jobs that earn between 45 to 60 pounds when paid on hourly basis,. The least pay on hourly basis is CyberSecurity.
 
 ![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob7.png)
