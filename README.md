@@ -1,5 +1,5 @@
-# Tech-Job-data-analysis
-![]()
+# TECH JOB DATA ANALYSIS
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob8.png)
 
 ## INTRODUCTION
 This project was a collaborative work among a team of tech professionals, which included Business Analysts, Data Engineers, and Data Scientists. It had to do with job scrapping from job sites and analysis of advertised tech jobs.
@@ -20,19 +20,25 @@ The dataset for this analysis was scrapped from various UK jobsites by the team 
 Kindly see notebook for the detailed, interesting yet rigorous data cleaning and preprocessing that took place.
 
 ## EXPLORATORY DATA ANALYSIS
-![]()
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob2.png)
 London is the city with the highest tech job vacancy
-![]()
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob.png)
 Among the top ten companies with tech job vacancies, Oscar Associates (UK) Limited tops the chart, 2% (262) of the jobs advertised comes from them. Other companies recorded among the top ten includes Rise Technical Recruitment Limited and Noir.
-![]()
-Software Engineer, Data Analyst, Project Manager and Business Analyst are the top 4 tech jobs being advertised in United Kingdom, while Software Tester and Power Platform are the least
-![]()
-About 50% of the jobs vacancies is for Mid-Level career position with salary scale within 35,001 and 70,000 , while about 36% is for EntryLevel (below 35,000), and the least is 5%, which the Managerial Level career position (salary above 105,000)
-![]()
-Using their Median Salary, the Data Engineer and Cloud Computing jobs advertised has the highest earning of about £60,000 each while Power Platform, Product Manager, and CyberSecurity earn about £50,000. But the least median salary is £35,000 recorded in Data Analyst career
-![]()
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob3.png)
+Software Engineer, Data Analyst, Project Manager and Business Analyst are the top 4 tech jobs being advertised in United Kingdom, while Software Tester and Power Platform are the least.
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob4.png)
+About 50% of the jobs vacancies is for Mid-Level career position with salary scale within 35,001 and 70,000 , while about 36% is for EntryLevel (below 35,000), and the least is 5%, which the Managerial Level career position (salary above 105,000).
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob5.png)
+Using their Median Salary, the Data Engineer and Cloud Computing jobs advertised has the highest earning of about £60,000 each while Power Platform, Product Manager, and CyberSecurity earn about £50,000. But the least median salary is £35,000 recorded in Data Analyst career.
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob6.png)
 Data Enngineer, Software Tester, Software Engineer, Power Platform and Data Engineer are the top 5 jobs that earn between 45 to 60 pounds when paid on hourly basis,. The least pay on hourly basis is CyberSecurity.
-![]()
+
+![](https://github.com/PharmMary/Tech-Job-data-analysis/blob/main/techjob7.png)
 The skills that are in high demand are Data Analysis, Programming language and problem solving skill.
 
 ## RECOMMENDATIONS
@@ -78,7 +84,7 @@ In conclusion, our analysis aligns with the insights provided by reputable sourc
 ## CONSTRAINTS
 Data quality was a major constraint in this analysis, there were lots of missing values and inconsistencies in the data set, limited features and, also the quantity of the data was too small. All these hindered our ability to go further in building a machine learning model.
 
-## REFERENCE
+## REFERENCES
 Science Times. (2023, February 23). 10 Highest Paying Tech Jobs in the UK and a Few More in High Demand. Science Times. [https://www.sciencetimes.com/articles/42557/20230223/10-highest-paying-tech-jobs-in-the-uk-and-a-few-more-in-high-demand.htm]
 
 U.S. Bureau of Labor Statistics. "Fastest Growing Occupations." Bureau of Labor Statistics, U.S. Department of Labor, modified 6 September, 2023, https://www.bls.gov/ooh/fastest-growing.htm
